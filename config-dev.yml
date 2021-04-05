@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: this is springcloud config file
